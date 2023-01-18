@@ -1,6 +1,6 @@
 # Projet C
 
-test de cr"ation d'application graphique :
+test de création d'application graphique :
 	* myapp.c
 	* myui.glde
 	
